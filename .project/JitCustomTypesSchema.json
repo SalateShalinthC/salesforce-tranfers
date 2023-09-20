@@ -1,0 +1,227 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 1,
+        "idRef": "ReadRangeConnections`1_1",
+        "hash": "ReadRangeConnections`1_1|DataTable|eV7sFmhk2jjyhK3xIVFnW3RMjQbgI3S5K8gcx1d0KY",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Banking Center",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "LOB",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date of Wire",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Customer Name",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Account Number",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Amount",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Originated by",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Verified by",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable1",
+        "hash": "ReadRangeConnections`1_1|DataTable|w3crfrd8GkhUQ6IzqWHIZrTkm0v1fpx1TNQj0rH18Ro",
+        "assemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 2,
+        "idRef": "ForEachRowConnections`1_1",
+        "hash": "ForEachRowConnections`1_1|DataRow|eV7sFmhk2jjyhK3xIVFnW3RMjQbgI3S5K8gcx1d0KY",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Banking Center",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "LOB",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date of Wire",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Customer Name",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Account Number",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Amount",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Originated by",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Verified by",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ],
+        "rowExtensionProperties": [
+          {
+            "columnName": "SheetsRowIndex",
+            "dataType": "System.Int32, System.Private.CoreLib",
+            "nameKey": "SheetsRowIndex",
+            "descriptionKey": "TODO"
+          },
+          {
+            "columnName": "Banking_Center_Address",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "Address",
+            "descriptionKey": "TODO)"
+          },
+          {
+            "columnName": "Banking_Center_ColumnAddress",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "ColumnAddress",
+            "descriptionKey": "TODO"
+          },
+          {
+            "columnName": "LOB_Address",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "Address",
+            "descriptionKey": "TODO)"
+          },
+          {
+            "columnName": "LOB_ColumnAddress",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "ColumnAddress",
+            "descriptionKey": "TODO"
+          },
+          {
+            "columnName": "Month_Address",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "Address",
+            "descriptionKey": "TODO)"
+          },
+          {
+            "columnName": "Month_ColumnAddress",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "ColumnAddress",
+            "descriptionKey": "TODO"
+          },
+          {
+            "columnName": "Date_of_Wire_Address",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "Address",
+            "descriptionKey": "TODO)"
+          },
+          {
+            "columnName": "Date_of_Wire_ColumnAddress",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "ColumnAddress",
+            "descriptionKey": "TODO"
+          },
+          {
+            "columnName": "Customer_Name_Address",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "Address",
+            "descriptionKey": "TODO)"
+          },
+          {
+            "columnName": "Customer_Name_ColumnAddress",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "ColumnAddress",
+            "descriptionKey": "TODO"
+          },
+          {
+            "columnName": "Account_Number_Address",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "Address",
+            "descriptionKey": "TODO)"
+          },
+          {
+            "columnName": "Account_Number_ColumnAddress",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "ColumnAddress",
+            "descriptionKey": "TODO"
+          },
+          {
+            "columnName": "Amount_Address",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "Address",
+            "descriptionKey": "TODO)"
+          },
+          {
+            "columnName": "Amount_ColumnAddress",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "ColumnAddress",
+            "descriptionKey": "TODO"
+          },
+          {
+            "columnName": "Originated_by_Address",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "Address",
+            "descriptionKey": "TODO)"
+          },
+          {
+            "columnName": "Originated_by_ColumnAddress",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "ColumnAddress",
+            "descriptionKey": "TODO"
+          },
+          {
+            "columnName": "Verified_by_Address",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "Address",
+            "descriptionKey": "TODO)"
+          },
+          {
+            "columnName": "Verified_by_ColumnAddress",
+            "dataType": "System.String, System.Private.CoreLib",
+            "nameKey": "ColumnAddress",
+            "descriptionKey": "TODO"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow2",
+        "hash": "ForEachRowConnections`1_1|DataRow|w3crfrd8GkhUQ6IzqWHIZrTkm0v1fpx1TNQj0rH18Ro|MwF58HxAZMZnH1DmlQ7Vg4TWlj4PQjExfywiJk8X4cY",
+        "assemblyName": "Studio.Generated.TypedDataRow2"
+      }
+    }
+  ]
+}
