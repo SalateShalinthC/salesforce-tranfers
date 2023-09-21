@@ -222,6 +222,62 @@
         "hash": "ForEachRowConnections`1_1|DataRow|w3crfrd8GkhUQ6IzqWHIZrTkm0v1fpx1TNQj0rH18Ro|MwF58HxAZMZnH1DmlQ7Vg4TWlj4PQjExfywiJk8X4cY",
         "assemblyName": "Studio.Generated.TypedDataRow2"
       }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 3,
+        "idRef": "ReadRangeConnections`1_2",
+        "hash": "ReadRangeConnections`1_2|DataTable|0afbVwKUbm9nQFGL1lr0GCITn45BVmzEE2x4X7rlJs",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Banking Center",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Teller #",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Teller Name",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Customer Name",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Amount",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Account Number",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Payee",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "OFAC Conducted",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Observation/Findings",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable3",
+        "hash": "ReadRangeConnections`1_2|DataTable|nA1aKMBJWRJVR52Ryh4Xl5nY6bPhT7sqF0d5YF6OyM",
+        "assemblyName": "Studio.Generated.TypedDataTable3"
+      }
     }
   ]
 }
